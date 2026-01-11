@@ -4,3 +4,4 @@ IPython == 8.20.0 # For sphinx documentation
 sphinxcontrib-napoleon == 0.7 # For auto doc
 sphinx-copybutton
 sphinx-rtd-dark-mode
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
